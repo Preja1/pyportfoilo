@@ -15,6 +15,7 @@ git add .
 git commit -m "Your Commit message Here"
 git push origin main
 
+to start any app :python manage.py startapp "name of any app"
 homepage
   section 
         banner:
